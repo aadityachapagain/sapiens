@@ -1,7 +1,7 @@
 ---
 title: "Thoughts & Thinking"
 date: 2020-10-27T13:19:50+05:45
-draft: true
+draft: false
 
 weight: 10
 contentCopyright: MIT
