@@ -11,4 +11,4 @@ autoCollapseToc: true
 
 # Thoughts
 
-what it is today, might not become what it will be tommarrow, but onething assure , we can always improvise ourself into better ourselves.
+`"Cogito ergo sum."` Famous Latin phrase stated by French philosopher René Descartes. Translated into English which means "I think, therefore I am." This phrase actually hold profound philosophical idea, and is argued for centuries by many famous philosophers around the world : `we exist, and we are aware that we exist, because we think`. Without thought or ability to think , we cease to exit.
